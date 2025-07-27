@@ -1,24 +1,67 @@
 # 🎁 Amigo Secreto
 
-Aplicación web para ingresar nombres de amigos y realizar un sorteo aleatorio para elegir al "amigo secreto".
+Aplicación web interactiva que permite registrar nombres de personas para realizar un sorteo aleatorio y elegir un "amigo secreto". Ideal para eventos sociales, juegos entre amigos, compañeros de trabajo o celebraciones familiares.
 
-## 🛠️ Funcionalidades
+---
 
-- ✅ Agregar nombres a una lista visible.
-- ✅ Validar entradas vacías.
-- ✅ Eliminar nombres individualmente.
-- ✅ Borrar toda la lista.
-- ✅ Sortear un amigo aleatorio.
-- ✅ Interfaz amigable, animaciones y diseño responsivo.
+## 🧩 Funcionalidades
 
-## 📦 Tecnologías usadas
+✅ **Agregar nombres** mediante un campo de texto.  
+✅ **Validación de entrada vacía** para evitar errores.  
+✅ **Visualización dinámica** de los nombres agregados.  
+✅ **Eliminar nombres individualmente** con ícono discreto.  
+✅ **Reiniciar la lista completa** con un botón de "Reiniciar".  
+✅ **Sorteo aleatorio** de un nombre al hacer clic en "Sortear Amigo".  
+✅ **Animaciones suaves** y una interfaz amigable.  
+✅ **Diseño responsivo** para móviles y escritorio.  
 
-- HTML
-- CSS
-- JavaScript (Vanilla)
-- Google Fonts
+---
 
-## 👨‍💻 Autor
+## 🎬 Capturas de pantalla
 
-Ferley 👨‍💻  
-Desarrollador e Ingeniero
+### ➕ Agregar nombres
+![Agregar nombres](./assets/screenshots/1.png)
+
+### 🎲 Realizar sorteo
+![Sorteo realizado](./assets/screenshots/2.png)
+
+### 🗑️ Eliminar nombres
+![Eliminar nombre](./assets/screenshots/3.png)
+
+https://www.loom.com/share/0bceb513046c4af7980d2f1c2c9ccc9a?sid=b1174064-f00c-42e8-966c-ae8fe604e35e
+---
+
+⚙️ Instalación y uso
+Clona el repositorio:
+
+bash
+Copiar
+Editar
+git clone https://github.com/tu-usuario/amigo-secreto.git
+Entra al directorio:
+
+bash
+Copiar
+Editar
+cd amigo-secreto
+Abre el archivo index.html en tu navegador:
+
+📂 Doble clic en index.html, o
+
+🚀 Usa Live Server desde VS Code
+
+🧪 Requisitos
+Este proyecto no requiere instalación de librerías externas ni backend. Solo necesitas:
+
+🌐 Un navegador moderno (Chrome, Firefox, Edge, etc.)
+
+🧩 (Opcional) Extensión Live Server para VS Code
+
+## 🐞 Posibles problemas
+
+| Problema                      | Solución                                                                       |
+|-------------------------------|--------------------------------------------------------------------------------|
+| La lista no se muestra        | Asegúrate de que el archivo `app.js` esté bien enlazado en el HTML            |
+| El sorteo no selecciona nadie | Verifica que haya al menos un nombre en la lista antes de sortear             |
+| Los estilos no se aplican     | Confirma que `style.css` esté enlazado correctamente en la etiqueta `<head>`  |
+
