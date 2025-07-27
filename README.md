@@ -20,13 +20,13 @@ Aplicación web interactiva que permite registrar nombres de personas para reali
 ## 🎬 Capturas de pantalla
 
 ### ➕ Agregar nombres
-![Agregar nombres](./assets/screenshots/1.png)
+![Agregar nombres](./assets/1.png)
 
 ### 🎲 Realizar sorteo
-![Sorteo realizado](./assets/screenshots/2.png)
+![Sorteo realizado](./assets/2.png)
 
 ### 🗑️ Eliminar nombres
-![Eliminar nombre](./assets/screenshots/3.png)
+![Eliminar nombre](./assets/3.png)
 
 https://www.loom.com/share/0bceb513046c4af7980d2f1c2c9ccc9a?sid=b1174064-f00c-42e8-966c-ae8fe604e35e
 ---
