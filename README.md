@@ -37,7 +37,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone [https://github.com/tu-usuario/amigo-secreto.git](https://github.com/luisGuevaran/amigo-secreto.git)
 Entra al directorio:
 
 bash
